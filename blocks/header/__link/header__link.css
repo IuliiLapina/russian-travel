@@ -1,0 +1,10 @@
+.header__link {
+  display: flex;
+  padding-top: 20px;
+}
+
+@media screen and (max-width: 320px) {
+  .header__link {
+    padding-top: 12px;
+  }
+}
