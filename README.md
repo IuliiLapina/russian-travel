@@ -8,4 +8,4 @@
 * Медиазапросы для разных разрешений экранов
 * Картинки импортировались из Фигмы оптимизировались для ускорения загрузки сайта.
 
-Ссылка на проект на GitHub Pages (https://iuliilapina.github.io/russian-travel/index.html)
+Ссылка на проект на GitHub Pages (https://iuliilapina.github.io/russian-travel/)
