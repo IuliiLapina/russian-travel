@@ -12,20 +12,20 @@
   padding-bottom: 0;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1150px) {
   .place {
     gap: 48px 32px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .place {
     gap: 48px 28px;
-    padding-bottom: 72px;
+    padding-bottom: 78px;
   }
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 600px) {
   .place {
     display: block;
     padding-bottom: 50px;
