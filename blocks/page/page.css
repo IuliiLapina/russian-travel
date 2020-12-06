@@ -1,5 +1,4 @@
 .page {
-  background-color: #2A2C2F;
   font-family: "Inter", "Arial", sans-serif;
   color: white;
   font-weight: normal;
@@ -10,5 +9,6 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   min-width: 320px;
+  max-width: 1280px;
   margin: 0 auto;
 }
