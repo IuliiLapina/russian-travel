@@ -1,7 +1,9 @@
 # Путешествие по России
 Одностраничный сайт о путешествии по России, о том как бескрайне прекрасна ее природа.
+<br>
+Посмотреть проект на GitHub Pages по ссылке: (https://iuliilapina.github.io/russian-travel/).
 
-Посмотреть проект на GitHub Pages по ссылке: (https://iuliilapina.github.io/russian-travel/)
+![alt text](images/preview.PNG "Превью")
 
 ## Функционал:
 * Адаптивный дизайн под разные разрешения (min 320px)
