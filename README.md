@@ -22,3 +22,6 @@
 * Positioning Elements
 * BEM Methodology
 * Figma
+
+## План по доработке проекта
+* Добавить переключение на английский язык.
